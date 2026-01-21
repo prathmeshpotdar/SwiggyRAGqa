@@ -67,7 +67,7 @@ Answer + Source Context
 
 ## ⚙ Setup Instructions
 
-### 1️⃣ Clone Repository
+1️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/prathmeshpotdar/SwiggyRAGqa.git
