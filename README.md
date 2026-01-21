@@ -61,23 +61,6 @@ Answer + Source Context
 
 ---
 
-## 📁 Project Structure
-
-SwiggyRAGqa/
-│
-├── data/
-│ └── swiggy_annual_report.pdf
-│
-├── vectorstore/
-│ ├── index.faiss
-│ └── index.pkl
-│
-├── ingest.py
-├── app.py
-├── gradio_app.py
-├── requirements.txt
-├── README.md
-└── .env
 
 
 ---
