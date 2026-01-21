@@ -66,10 +66,10 @@ Answer + Source Context
 ---
 
 ## ⚙ Setup Instructions
-
+```bash
 1️⃣ Clone Repository
 
-```bash
+
 git clone https://github.com/prathmeshpotdar/SwiggyRAGqa.git
 cd SwiggyRAGqa
 
