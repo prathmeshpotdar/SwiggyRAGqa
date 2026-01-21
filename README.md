@@ -21,11 +21,7 @@ The goal of this project is to:
 
 **Swiggy Annual Report (Public Document)**
 
-Source Link:  
-https://www.swiggy.com/investor-relations  
 
-> Note: Due to copyright considerations, the PDF file is not included in this repository.  
-Please download the latest Swiggy Annual Report and place it inside the `data/` folder.
 
 ---
 
